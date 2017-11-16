@@ -8,7 +8,7 @@
         Here is the differnce than the priview
     </h2>
     <p>
-        Put content here.
+ change is happening. you need a good start
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
     </p>
